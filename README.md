@@ -49,7 +49,7 @@ Every project undergoes a **mandatory manual audit** before moving from `private
 ---
 
 ## 📋 6. Contribution Workflow
-1.  **Proposal:** Create an issue in `VNCT-CORE` describing your project idea.
+1.  **Proposal:** Create an issue in `VNCT` describing your project idea.
 2.  **Challenge:** You will be assigned a non-trivial technical task to verify your skills.
 3.  **Incubation:** Development happens in a private repository under your control.
 4.  **Audit:** The project maintainer conducts a manual code review.
